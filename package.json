@@ -1,0 +1,23 @@
+{
+  "name": "SDVJavaScript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "week3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Holly499/SDVJavaScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Holly499/SDVJavaScript/issues"
+  },
+  "homepage": "https://github.com/Holly499/SDVJavaScript#readme",
+  "dependencies": {
+    "nodemon": "^2.0.7"
+  }
+}

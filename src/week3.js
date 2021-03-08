@@ -16,7 +16,7 @@ console.log(lastName)
 // let fullName = firstName + ' ' + lastName
 
 fullName = `My full name is ${firstName} ${lastName}` // ES6
-// Print it
+// Print itc
 console.log (fullName)
 
 

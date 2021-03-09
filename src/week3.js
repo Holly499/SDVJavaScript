@@ -1,7 +1,7 @@
 console.log ('Holly')
 console.log ('testing testing 123')
 console.log ('test number 2')
-// todo javascript variables
+// TODO javascript variables
 // note listen 
 // Declare a variable first name and assign a value string
 
@@ -9,6 +9,7 @@ var firstName = 'Holly'
 // Print it
 console.log(firstName)
 
+// REVIEW 
 var lastName = 'Todd'
 // Print it
 console.log(lastName)

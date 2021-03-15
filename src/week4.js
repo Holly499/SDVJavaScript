@@ -123,6 +123,20 @@ const information = {
     console.log(typeof c)
 
 
+    let g = 5
+    //declaring a variable, variable name, assigning value
+    let h = g
+    //declaring a variable, variable name, assigning previous variable to new one?
+    console.log(g) //5
+    console.log(h) //5
+    console.log(g === h) //true
+    g = 10
+    console.log(g) // 10
+    console.log(h) // 5
+    console.log(g === h) // false
+    
+
+
    
 
 
